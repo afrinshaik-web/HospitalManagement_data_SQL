@@ -1,27 +1,15 @@
-# HospitalManagement_data_SQL
-# Hospital Management System Project
+ ## 🏥Hospital Management System — SQL Analytics Project
 
-## Description
-This project simulates a hospital management system with real-world data including doctors, patients, appointments, treatments, and billing. It allows analysis of business questions such as:
+This project simulates a hospital management system using SQL. It includes realistic data for doctors, patients, appointments, diagnoses, treatments, and billing. The goal is to analyze operational and financial metrics through structured queries.
 
-- Which doctors handle the most patients?
-- What are the most common diagnoses?
-- Which treatments generate the most revenue?
-- Monthly trends of patient visits
-- Patients by city/state
+## 🔍Key Insights
+- Top-performing doctors by patient volume
+- Most common diagnoses
+- Treatments generating the highest revenue
+- Monthly trends in patient visits
+- Patient distribution by city/state
 - Repeat patient analysis
-- Department revenue insights
+- Department-wise revenue breakdown
 
-## Contents
-- `hospital_management_project.sql` : Database creation + 170+ records
-- `hospital_analysis_queries.sql` : SQL queries answering business questions
-
-## Tools & Technologies
-- MySQL
-
-## How to Use
-1. Run `hospital_management_project.sql` in MySQL to create the database.
-2. Execute queries in `hospital_analysis_queries.sql` to analyze data.
-
-
-
+ ## 🛠️Tools & Technologies
+ MySQL — Used for designing the relational database schema, storing hospital data, and executing analytical SQL queries.
